@@ -154,4 +154,20 @@ Extract the Spice deck:
 
 ![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/c05473f3-bc06-4f37-9e2b-ec887d8a0692)
 
+Spice deck:
+---
+
+![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/29d98063-f137-4ef9-abef-793713023fbb)
+
+
+
+
+
+
+
+
+
+
+
+
 
