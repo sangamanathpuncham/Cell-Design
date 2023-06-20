@@ -1,6 +1,9 @@
 # Cell-Design 
 
-![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/b357ae34-cbe7-4181-a7b6-dc8bf063fe1f)
+
+------->input------>GUNA----->OUTPUT
+
+TIMING CHAR.   POWER CHAR.  NOISE CHAR.
 
 Reading the models
 
