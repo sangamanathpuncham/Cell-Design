@@ -39,8 +39,9 @@ Transition Time:
 
 ![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/52a1e6d8-571b-440e-bd7c-951da6772582)
 
+Standard cell from the repo:
 
-
+https://github.com/nickson-jose/vsdstdcelldesign.git
 
 
 
