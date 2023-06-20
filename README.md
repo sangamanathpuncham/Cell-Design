@@ -43,14 +43,6 @@ Transition Time:
 
 ![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/52a1e6d8-571b-440e-bd7c-951da6772582)
 
-Standard cell from the repo:
-
-https://github.com/nickson-jose/vsdstdcelldesign.git
-
-
-![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/96c4c6cf-997e-45f1-b551-2ffb6aa0bfae)
-
-![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/11bfaa54-0d18-4ef1-848a-a4a12de51f53)
 
 
 16-MASK PROCESS OF INVERTER:
@@ -147,5 +139,19 @@ The technology file is a one setup file that tells magic everything it needs to 
 
 read LEF and Def files, rules for interactive wiring, etc...). There are two sections: CIF and GDS styles. CIF is human readable.
 
+Standard cell from the repo:
+
+https://github.com/nickson-jose/vsdstdcelldesign.git
+
+
+![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/96c4c6cf-997e-45f1-b551-2ffb6aa0bfae)
+
+![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/11bfaa54-0d18-4ef1-848a-a4a12de51f53)
+
+
+Extract the Spice deck:
+----
+
+![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/c05473f3-bc06-4f37-9e2b-ec887d8a0692)
 
 
