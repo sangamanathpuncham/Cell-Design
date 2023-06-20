@@ -1,9 +1,10 @@
 # Cell-Design 
 
 
-------->input------>GUNA----->OUTPUT
+    ------->input------>GUNA----->OUTPUT
 
-TIMING CHAR.   POWER CHAR.  NOISE CHAR.
+    TIMING CHAR.   POWER CHAR.  NOISE CHAR.
+
 
 Reading the models
 
