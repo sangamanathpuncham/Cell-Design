@@ -160,8 +160,13 @@ Spice deck:
 ![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/29d98063-f137-4ef9-abef-793713023fbb)
 
 
+Changed spice deck:
+--
+![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/d5ba818e-daaa-420b-8720-c810edd7e780)
 
+![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/f14474c3-94c1-494a-be5c-dad9887fb975)
 
+![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/6968f295-a3f2-4c79-b25e-8315b82ae66d)
 
 
 
