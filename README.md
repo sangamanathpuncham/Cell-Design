@@ -130,7 +130,8 @@ deposited, followed by CMP again. Al is then deposited on the material, and phot
 
 deposited on top to protect the whole chip. Finally, mask16 is used to open contact holes on this top layer and connect the highest metal layer to the top.
 
-Below is the obtained CMOS after finishing the fabrication process explained above:
+![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/ffe38428-8b8d-43e0-9e98-e9a5a18d3f58)
+
 
 fabrication
 ---
