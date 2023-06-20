@@ -48,6 +48,8 @@ Standard cell from the repo:
 https://github.com/nickson-jose/vsdstdcelldesign.git
 
 
+![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/96c4c6cf-997e-45f1-b551-2ffb6aa0bfae)
 
+![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/11bfaa54-0d18-4ef1-848a-a4a12de51f53)
 
 
