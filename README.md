@@ -192,6 +192,12 @@ Extraction of LEF:
 
 ![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/a997800a-5c6f-430c-bdf7-09f2ea5a258c)
 
+4)Specife the ports in the std cell
+
+![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/3a840538-0eea-4dbc-874f-1cd2c7d4fa4a)
+
+5)extracting LEF:
+
 ![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/f1f02082-7589-45ad-bbb3-29455d9f089e)
 
     
