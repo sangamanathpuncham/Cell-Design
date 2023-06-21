@@ -180,7 +180,15 @@ Changed spice deck:
 
     Fall delay = 4.0530 - 4.0497 = 0.0033ns (for 50%)
 
+Extraction of LEF:
+-----
+1)for std cell input and output ports lies on the intersection of H and V tracks
 
+2)width of the std cell in the odd multiple of no of tracks of horizontal pitch
+
+3)height should be odd multiple of no of tracks of vertical  pitch
+
+![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/b3ad6e7a-d7fa-46f5-97b7-d3c50be67165)
 
 
     
