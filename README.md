@@ -190,6 +190,7 @@ Extraction of LEF:
 
 ![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/b3ad6e7a-d7fa-46f5-97b7-d3c50be67165)
 
+![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/a997800a-5c6f-430c-bdf7-09f2ea5a258c)
 
     
 
