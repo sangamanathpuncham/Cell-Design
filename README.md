@@ -169,9 +169,21 @@ Changed spice deck:
 ![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/6968f295-a3f2-4c79-b25e-8315b82ae66d)
 
 
+![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/7cc88019-c290-4843-8a19-293879d36029)
+
+    Rise Trasition = 2.1800 - 2.1519 =0.0281ns(for 20%)
+    Rise Transition=2.19633 - 2.12014=0.7619ns(for 80%)
+    Fall Transition=4.0801 - 4.0398 = 0.403ns(for 80%)
+    Fall Transition=4.06619 -4.01946= 0.0467ns(for 20%)
+
+    Rise delay = 2.1774 - 2.1503 = 0.271ns ( for 50%)
+
+    Fall delay = 4.0530 - 4.0497 = 0.0033ns (for 50%)
 
 
 
+
+    
 
 
 
