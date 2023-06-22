@@ -210,8 +210,12 @@ Inserting my custum cell into synthesis and pnr:
 
 2)cp sky130_fd_sc_hd* /home/sangamanath/Desktop/vlsi/OpenLane/designs/picorv32a/src
 
+5)![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/86493fcf-06f0-4d9a-b3c1-280573b05a88)
+
+
 3)![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/a275d361-5f2c-4a9c-9e0e-13bf43af1076)
 
+4)![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/4d1d9dc8-069b-4bf8-a70d-48b3a008ed1a)
 
 
 
