@@ -204,8 +204,9 @@ Extraction of LEF:
 
 7)read lef file in the sdc in synthesis step and that cell appear on the netlist.
 
-Synthesis and PNR of My custum cell:
+Inserting my custum cell into synthesis and pnr:
 -----
+
 
 
 
