@@ -1,4 +1,4 @@
-# Cell-Design 
+![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/443635f5-0862-495c-8273-95cc95232b9d)# Cell-Design 
 
 
     ------->input------>GUNA----->OUTPUT
@@ -206,6 +206,11 @@ Extraction of LEF:
 
 Inserting my custum cell into synthesis and pnr:
 -----
+1)cp sky130_vsdinv.lef /home/sangamanath/Desktop/vlsi/OpenLane/designs/picorv32a/src
+
+2)cp sky130_fd_sc_hd* /home/sangamanath/Desktop/vlsi/OpenLane/designs/picorv32a/src
+
+3)![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/a275d361-5f2c-4a9c-9e0e-13bf43af1076)
 
 
 
