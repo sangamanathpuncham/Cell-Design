@@ -200,7 +200,9 @@ Extraction of LEF:
 
 ![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/f1f02082-7589-45ad-bbb3-29455d9f089e)
 
-    
+6)Created LEF copy to src in openlane design folder 
+
+7)read lef file in the sdc in synthesis step and that cell appear on the netlist.
 
 
 
