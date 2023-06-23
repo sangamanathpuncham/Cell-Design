@@ -1,4 +1,4 @@
-![image](https://github.com/sangamanathpuncham/Cell-Design/assets/132802184/443635f5-0862-495c-8273-95cc95232b9d)# Cell-Design 
+# Cell-Design 
 
 
     ------->input------>GUNA----->OUTPUT
